@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "edible_rotten_flesh.ediblerottenflesh.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
